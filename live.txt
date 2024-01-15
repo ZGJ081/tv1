@@ -2536,6 +2536,25 @@ DOXTV,http://113.117.74.17:808/hls/62/index.m3u8
 CHANNEl V,http://113.117.74.17:808/hls/88/index.m3u8
 
 🌵北京,#genre#
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
+石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid#http://live.sjsrm.com/bjsjs/sd/live.m3u8
+顺义电视台,https://livebjsy.chinamcache.com/live/zb02.m3u8
+BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
+房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8#http://live.funhillrm.com/2/sd/live.m3u8?zbeid
+石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
+石景山电视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
+房山区电视,https://live.funhillrm.com/2/sd/live.m3u8
+北京卫视,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.241:8000/北京卫视.m3u8
+北京影视,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.158:8000/北京影视.m3u8
+北京新闻,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.159:8000/北京新闻.m3u8
+北京文艺,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.242:8000/北京文艺.m3u8
+北京财经,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.116:8000/北京财经.m3u8
+北京生活,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.117:8000/北京生活.m3u8
+纪实科教,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.115:8000/北京纪实科教.m3u8
+卡酷少儿,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.189:8000/北京卡酷少儿
+体育休闲,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.243:8000/北京体育休闲.m3u8
+国际频道,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.235:8000/北京国际频道.m3u8
 北京影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 北京文艺,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 北京新闻,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
@@ -4573,13 +4592,48 @@ CHANNEl V,http://113.117.74.17:808/hls/88/index.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
 🦄河北,#genre#
-河北影视剧台高清,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
-河北经济生活台高清,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
-河北都市台高清,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
-河北公共台高清,https://event.pull.hebtv.com/jishi/gonggongpindao.m3u8
-河北农民台高清,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
-河北少儿科教台高清,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
-河北三佳购物台高清,https://event.pull.hebtv.com/jishi/sanjiagouwu.m3u8
+河北|石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+河北|石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+河北|石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+河北|石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+沧州电视台一套 ,http://czlive.czgd.tv:85/live/xnyt.m3u8		
+沧州电视台二套 ,http://czlive.czgd.tv:85/live/xnet.m3u8		
+沧州电视台三套 ,http://czlive.czgd.tv:85/live/xnst.m3u8	
+河北|承德公共生活,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
+河北|承德新闻综合,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
+河北|保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
+河北|保定公共,http://jwcdnqx.hebyun.com.cn/live/bdxw1/1500k/tzwj_video.m3u8
+河北|保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
+河北|安平新闻综合,http://shou.city1000.cn/live/apxw.m3u8
+河北|大厂一套,http://60.10.185.184:1935/live/dc1.stream/playlist.m3u8
+河北|定州生活频道,https://jwliveqxzb.hebyun.com.cn/shpd/shpd.m3u8
+河北|定州新闻综合,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
+河北|丰宁综合频道,https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8
+河北|邯郸新闻,https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
+河北|邯郸公共,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+河北|邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
+河北|衡山,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+河北|衡水新闻综合,http://111.225.205.64:8081/964D4p2/800/live.m3u8
+河北|景县电视一套,http://hbjx.chinashadt.com:1935/live/stream:jx1.stream/playlist.m3u8
+河北|涞水新闻频道,https://jwliveqxzb.hebyun.com.cn/lsdst/lsdst.m3u8
+河北|隆化影视频道,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+河北|隆化综合频道,http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
+河北|鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
+河北|平泉影视频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+河北|平泉综合频道,https://jwliveqxzb.hebyun.com.cn/pqzh/pqzh.m3u8
+河北|平乡综合频道,http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
+河北|清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+河北|清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+河北|邱县电视二套,http://live.hd.hdbs.cn/video/s10013-qxds2/index.m3u8
+河北|邱县综合频道,http://live.hd.hdbs.cn/video/s10013-qxds1/index.m3u8
+河北|任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+河北|任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+河北|望都综合频道,https://jwliveqxzb.hebyun.com.cn/wddst/wddst.m3u8
+河北|兴隆影视频道,https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+河北|兴隆综合频道,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+张家口一套新闻综合频道 ,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8		
+张家口二套公共频道 ,http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8	
+
 邢台综合频道,http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.m3u8?auth_key=1861891200-0-0-d10ef6800441f798030705f4ab7e3a4b;{User-Agent@0151?zhebd}
 邢台综合频道,http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.flv?auth_key=1861891200-0-0-d86d236a74b9a55f2596a7346ec632a8;{User-Agent@0151?zhebd}
 邢台公共频道,http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.m3u8?auth_key=1861891200-0-0-ac3742e661687f63ac72cd6cb2c784be;{User-Agent@0151?zhebd}
