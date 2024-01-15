@@ -4799,10 +4799,7 @@ WOWOW Prime,http://203.162.235.41:16916
 AT-X,https://sub2.neetball.net/live/neet.m3u8
 QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+
 
 🎈韩国频道,#genre#
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
