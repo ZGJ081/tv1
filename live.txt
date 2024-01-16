@@ -690,7 +690,7 @@ MTV电影,http://218.202.220.2:5000/nn_live.m3u8?id=MTV
 卫视电影,https://vd3.bdstatic.com/mda-ijpf490digcrqv4z/hd/mda-ijpf490digcrqv4z.mp4?auth_key=1648477328-0-0-ac1dfb4d3cb739a53525c52639302a80&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3128148124&vid=3444695140816300827&abtest=all
 电影 欧美 科幻 经典_直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-猫和老鼠,http://43.138.170.29:35455/huya/11352879
+
 💯云游日本,http://bp-caster.bestv.com.cn/514/1/video.m3u8
 💯悬疑烧脑,http://bp-caster.bestv.com.cn/567/1/video.m3u8
 💯上头正剧,http://bp-caster.bestv.com.cn/501/1/video.m3u8
@@ -2728,6 +2728,7 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 
 
 🐯动画片,#genre#
+猫和老鼠,http://43.138.170.29:35455/huya/11352879
 嘉佳卡通,http://113.117.74.17:808/hls/126/index.m3u8
 哈哈炫动,http://113.117.74.17:808/hls/127/index.m3u8
 金鹰卡通,http://113.117.74.17:808/hls/129/index.m3u8
