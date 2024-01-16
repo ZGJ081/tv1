@@ -162,7 +162,17 @@
       "filterable": 1,
       "ext": "./吾爱戏曲.json"
     },
-    
+    {
+      "key": "学习",
+      "name": "肖玉 学习园地",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./学习园地.json"
+    },
+
     {"key":"MTV","name":"MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/zhao-guojun081/television/raw/master/siter/lib/mtv.json"},
 {"key": "开心果","name": "开心果┃秒播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 //{"key": "A8影视","name": "A8┃秒播","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
