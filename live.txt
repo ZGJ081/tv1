@@ -320,11 +320,12 @@ Gui故事,http://al.flv.huya.com/src/2323203290-2323203290-9978082152509603840-4
 医馆笑传*陈赫,http://aldirect.corp-hls.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8?wsiphost=ipdbme
 
 ✨️轮播百视,#genre#
-东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
-东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=b234e6c41620650518?zjild
-东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8?_upt=df2621ce1662630390
-东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8?_upt=6162e0bd1635577249
-东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
+凤凰电影,http://218.202.220.2:5000/nn_live.m3u8?id=NEWSASIA
+MTV电影,http://218.202.220.2:5000/nn_live.m3u8?id=MTV
+上海滩电影版,https://ukzy.ukubf3.com/20220605/kssUhAeh/2000kb/hls/index.m3u8
+卫视电影,https://vd3.bdstatic.com/mda-ijpf490digcrqv4z/hd/mda-ijpf490digcrqv4z.mp4?auth_key=1648477328-0-0-ac1dfb4d3cb739a53525c52639302a80&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=3128148124&vid=3444695140816300827&abtest=all
+电影 欧美 科幻 经典_直播间,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 💯解压喜剧,http://bp-caster.bestv.com.cn/570/1/video.m3u8
 💯云游日本,http://bp-caster.bestv.com.cn/514/1/video.m3u8
 💯悬疑烧脑,http://bp-caster.bestv.com.cn/567/1/video.m3u8
