@@ -6,7 +6,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://gitee.com/zhao-guojun081/television/raw/master/live.txt",
+		    "url": "https://atomgit.com/zgj081/tv/raw/master/live.txt",
 		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
 	    }],
