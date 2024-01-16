@@ -320,6 +320,11 @@ Gui故事,http://al.flv.huya.com/src/2323203290-2323203290-9978082152509603840-4
 医馆笑传*陈赫,http://aldirect.corp-hls.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8?wsiphost=ipdbme
 
 ✨️轮播百视,#genre#
+东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
+东北戏曲,http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=b234e6c41620650518?zjild
+东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8?_upt=df2621ce1662630390
+东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8?_upt=6162e0bd1635577249
+东北戏曲,http://stream1.jlntv.cn/dbxq/sd/live.m3u8
 💯解压喜剧,http://bp-caster.bestv.com.cn/570/1/video.m3u8
 💯云游日本,http://bp-caster.bestv.com.cn/514/1/video.m3u8
 💯悬疑烧脑,http://bp-caster.bestv.com.cn/567/1/video.m3u8
@@ -336,10 +341,7 @@ Gui故事,http://al.flv.huya.com/src/2323203290-2323203290-9978082152509603840-4
 💯花样姐姐,http://bp-caster.bestv.com.cn/559/1/video.m3u8
 💯宝藏纪录片,http://bp-caster.bestv.com.cn/515/1/video.m3u8
 💯极限挑战,http://bp-caster.bestv.com.cn/511/1/video.m3u8
-💯相声有新人,http://bp-caster.bestv.com.cn/512/1/video.m3u8
-💯打工人奋斗史,http://bp-caster.bestv.com.cn/532/1/video.m3u8
-//软件库https://88qq.lanzouk.com/b08crs12j         交流群833607523
-💯泰上头,http://bp-caster.bestv.com.cn/490/1/video.m3u8
+
 💯介就是爱,http://bp-caster.bestv.com.cn/480/1/video.m3u8
 💯七彩戏剧,https://bp-caster.bestv.com.cn/250/1/video.m3u8
 💯健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
@@ -354,11 +356,9 @@ Gui故事,http://al.flv.huya.com/src/2323203290-2323203290-9978082152509603840-4
 💯搞笑穿越,http://bp-caster.bestv.com.cn:80/361/play.m3u8
 💯科学大爆炸,http://bp-caster.bestv.com.cn:80/333/play.m3u8
 💯下饭爽剧,http://bp-caster.bestv.com.cn:80/322/play.m3u8
-💯猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8?servicetype=1
 💯童年国漫,https://bp-caster.bestv.com.cn:443/249/play.m3u8
 💯海派滑稽戏,https://bp-caster.bestv.com.cn:443/250/play.m3u8
-💯相声有新人,http://bp-caster.bestv.com.cn:80/335/3/video.m3u8
-💯猫和老鼠,http://bp-caster.bestv.com.cn:80/319/1/video.m3u8
+
 
 
 音乐,#genre#
