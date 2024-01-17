@@ -6315,7 +6315,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
 
-射雕英雄转黄日华版#genre#
+射雕英雄转黄日华版,#genre#
 第1集,https://s2.bfbfvip.com/video/shediaoyingxiongchuan1983/第01集/index.m3u8
 第2集,https://s2.bfbfvip.com/video/shediaoyingxiongchuan1983/第02集/index.m3u8
 第3集,https://s5.bfbfvip.com/video/shediaoyingxiongchuan1983/第03集/index.m3u8
