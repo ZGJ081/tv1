@@ -228,7 +228,7 @@ CHC家庭影院,http://123.60.111.12/migu.php?id=chcjtyy
 美国摔角,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 北京,#genre#
-
+北京卫视,http://112.235.200.120:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid#http://live.sjsrm.com/bjsjs/sd/live.m3u8
 顺义电视台,https://livebjsy.chinamcache.com/live/zb02.m3u8
@@ -1337,7 +1337,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 愚公移山27,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/ffd496b21249464fa9ea4cf84ae168ec/1200.m3u8
 愚公移山28,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d284e122339244858dbdebb2fcbc270d/1200.m3u8
 愚公移山29,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e96c7b1769de47a290316cd8bb94b41b/1200.m3u8
-动漫宇宙护卫#genre#
+动漫宇宙护卫,#genre#
 宇宙护卫01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/06fa2fb9502140a0b61165fbdd49c9bb/1200.m3u8
 宇宙护卫03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fb9e2a8e0adc459d8b89aa77ceed9f6f/1200.m3u8
 宇宙护卫04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c3570f41f8264993bbec975106eb73b4/1200.m3u8
@@ -1381,7 +1381,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 宇宙护卫46,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/6e275cc659d44ff4983dde280389ee7f/1200.m3u8
 宇宙护卫48,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e17cd361fd89477eb6fffe41c2da1d0f/1200.m3u8
 宇宙护卫49,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fa75c5f191ba4ebbade8cae50049470c/1200.m3u8
-动漫巨兵长城#genre#
+动漫巨兵长城,#genre#
 巨兵长城02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1dd4062abaa94ca6b560e3ef56f8c409/1200.m3u8
 巨兵长城03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b07fdae486f74238bf25eb71e83f259c/1200.m3u8
 巨兵长城04,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b931570cc1d14c2eab472692b5d47805/1200.m3u8
