@@ -430,17 +430,15 @@
 
 ],
 
-"lives": [
-   
-        {
-          "name": "live",
-           "type": 0,
-          "url":  "https://atomgit.com/zgj081/tv/raw/master/js.txt",
-          
-        }
-      ]
+"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://atomgit.com/zgj081/tv/raw/master/live.txt",
+		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
+	    }],
     
-  ],
+
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","xigua","renrenmi","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
 
