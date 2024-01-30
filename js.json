@@ -1,3 +1,14 @@
+{
+	"spider": "https://atomgit.com/yimeng/ym/raw/master/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://atomgit.com/zgj081/tv/raw/master/live.txt",
+		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
+	    }],
+
 
 {
 "spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
