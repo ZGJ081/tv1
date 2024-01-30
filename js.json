@@ -1,4 +1,13 @@
-
+{
+	"spider": "https://atomgit.com/yimeng/ym/raw/master/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://atomgit.com/zgj081/tv/raw/master/live.txt",
+		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
+	    }],
 
 
 
@@ -429,23 +438,14 @@
 	{"key":"*花椒","name":"*花椒","type":0,"api":"https://cj.apihjzy.com/inc/api.php"},
 	{"key":"*88","name":"*88","type":0,"api":"http://www.88zy.live/inc/api.php"}
 
-],
 
-"spider": "https://atomgit.com/yimeng/ym/raw/master/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-"lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "https://atomgit.com/zgj081/tv/raw/master/js.txt"
-          ]
-        }
-      ]
-    }
-  ],
+
+
+        
+        
+      
+    
+  
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","xigua","renrenmi","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
 
