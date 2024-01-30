@@ -1,15 +1,5 @@
 {
-	"spider": "https://atomgit.com/yimeng/ym/raw/master/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://atomgit.com/zgj081/tv/raw/master/live.txt",
-		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
-	    }],
-
-
+"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -438,14 +428,21 @@
 	{"key":"*花椒","name":"*花椒","type":0,"api":"https://cj.apihjzy.com/inc/api.php"},
 	{"key":"*88","name":"*88","type":0,"api":"http://www.88zy.live/inc/api.php"}
 
+],
 
-
-
-        
-        
-      
-    
-  
+"lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
+          ]
+        }
+      ]
+    }
+  ],
 
   "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","xigua","renrenmi","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
 
@@ -933,4 +930,3 @@
     "cms.qdwght.com"
   ]
 }
-
