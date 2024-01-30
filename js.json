@@ -435,8 +435,7 @@
         {
           "name": "live",
            "type": 0,
-          "urls": 
-            "https://atomgit.com/zgj081/tv/raw/master/js.txt"
+          "url":  "https://atomgit.com/zgj081/tv/raw/master/js.txt",
           
         }
       ]
