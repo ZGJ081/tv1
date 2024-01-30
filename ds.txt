@@ -6,7 +6,7 @@
 火辣辣的情歌,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsaTA4gUohOr5ngc.mp4
 韩国DJ Soda Remix 2021电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
 
-CCTV1,https://gyssi.link/iptv/chinaiptv/%E5%8C%97%E4%BA%AC.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjExMDk3NjUxNjAsImlhdCI6MTcwNDM0NDk3NCwiZXhwIjoxNzA2OTM2OTc0fQ.XLfoMVfxwOOdshxDuwtIA4z1UI23cMaIsREFv6CZ-X4#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8#https://gyssi.link/iptv/chinaiptv/%E5%8C%97%E4%BA%AC.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjExMDk3NjUxNjAsImlhdCI6MTcwNDM0NDk3NCwiZXhwIjoxNzA2OTM2OTc0fQ.XLfoMVfxwOOdshxDuwtIA4z1UI23cMaIsREFv6CZ-X4#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
 CCTV3,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
@@ -2034,6 +2034,7 @@ Red Bull TV ,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.
 第57集,https://s5.bfbfvip.com/video/shediaoyingxiongchuan1983/第57集/index.m3u8
 第58集,https://s5.bfbfvip.com/video/shediaoyingxiongchuan1983/第58集/index.m3u8
 第59集,https://s5.bfbfvip.com/video/shediaoyingxiongchuan1983/第59集/index.m3u8
+
 
 
 热剧轮播,#genre#
