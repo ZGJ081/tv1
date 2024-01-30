@@ -1785,6 +1785,14 @@ CNA ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/inde
 NHK World ,http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 Red Bull TV ,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
+河北邦子,#genre#
+打金枝,http://uptt.gcwduoduo.com/v/220322/51b3686ff55baa609e8f94dbc8d1682a.mp4
+穆桂英挂帅,http://uptt.gcwduoduo.com/v/201012/40c47ec8b2981e39cbe306e551fcc8b2.mp4
+宝莲灯,http://uptt.gcwduoduo.com/v/201020/b01756b5d15b4309261586d819a939f5.mp4#http://uptt.gcwduoduo.com/v/210113/a3eeb62bda700dc8404fea521981bab5.mp4
+大登殿,http://uptt.gcwduoduo.com/v/200113/0ad63e79f38f4649d50dc7ff5c8ca12b.mp4
+袁门斩子,http://uptt.gcwduoduo.com/v/220411/17b5adae46557f15fc3d145bccdc23b2.mp4
+《蝴蝶杯》全集田春鸟,http://uptt.gcwduoduo.com/v/200709/ba307213c4ec443d1318abe01588b650.mp4
+四郎探母,http://uptt.gcwduoduo.com/v/210115/a46c10cfe8fe042dd79b14ddcdfea008.mp4
 
 大宅门1-72集,#genre#
 
