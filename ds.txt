@@ -2145,6 +2145,20 @@ HBO 3,http://208.115.225.174:14160
 HBO 4,http://208.115.225.174:14136
 HBO 2,http://208.115.225.174:14140
 动物星球,http://208.115.225.174:14192
+Together TV,http://5.66.192.142:9981/stream/channelid/1369926825?profile=matroska
+AXN,http://170.254.18.106/AXN/index.m3u8
+AMC,http://170.254.18.106/AMC/index.m3u8
+Comedy Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+Lifetime,http://170.254.18.106/LIFETIME/index.m3u8
+HBO Mundi,http://170.254.18.106/HBO_MUNDI/index.m3u8
+HBO Family,http://170.254.18.106/HBO_FAMILY/index.m3u8
+HBO Plus,http://170.254.18.106/HBO_PLUS/index.m3u8
+HBO 2,http://170.254.18.106/HBO2/index.m3u8
+STAR,http://170.254.18.106/STAR/index.m3u8
+FX,http://170.254.18.106/FX/index.m3u8
+TNT,http://170.254.18.106/TNT/index.m3u8
+HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
+
 
 港·澳·台,#genre#
 凤凰卫视,http://qwas.eatuo.com:9901udp://@224.3.2.108:5000
