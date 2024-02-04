@@ -1673,9 +1673,10 @@ HBO 2,http://208.115.225.174:14140
 动物星球,http://208.115.225.174:14192
 
 港·澳·台,#genre#
+凤凰卫视,http://qwas.eatuo.com:9901udp://@224.3.2.108:5000
 凤凰咨询,http://124.90.178.196:8888/rtp/233.50.200.192:5140#http://222.210.209.11:888/udp/239.93.0.118:2191#http://222.210.209.11:888/udp/239.93.1.4:2191
 凤凰中文,http://124.90.178.196:8888/rtp/233.50.200.191:5140#http://yuju666888.x3322.net:808/hls/94/index.m3u#http://222.210.209.11:888/udp/239.93.0.162:2192#http://222.210.209.11:888/udp/239.93.1.9:2192
-凤凰资讯,#http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
+凤凰资讯,8#http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8#https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
@@ -1792,8 +1793,8 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 凤凰资讯,http://113.117.74.228:8081/hls/36/index.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 香港文旅台,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-星空卫视,http://222.210.209.11:888/udp/239.93.0.156:2193#http://222.210.209.11:888/udp/239.93.1.10:2193
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+星空卫视,http://qwas.eatuo.com:9901udp://@224.3.2.82:5000#http://222.210.209.11:888/udp/239.93.0.156:2193#http://222.210.209.11:888/udp/239.93.1.10:2193
+翡翠台,http://qwas.eatuo.com:9901udp://@224.3.2.15:5000#http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 耀才财经台 ,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 澳亚卫视 ,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -1810,9 +1811,9 @@ Al Jazeera ,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNA ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NHK World ,http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 Red Bull TV ,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-动作电影,http://yuju666888.x3322.net:808/hls/98/index.m3u8
-家庭电影,http://yuju666888.x3322.net:808/hls/99/index.m3u8
-高清电影,http://yuju666888.x3322.net:808/hls/100/index.m3u8
+动作电影,http://yuju666888.x3322.net:808/hls/98/index.m3u8#http://qwas.eatuo.com:9901udp://@224.3.2.31:5000
+家庭电影,http://yuju666888.x3322.net:808/hls/99/index.m3u8#http://qwas.eatuo.com:9901udp://@224.3.2.30:5000
+高清电影,http://yuju666888.x3322.net:808/hls/100/index.m3u8#http://qwas.eatuo.com:9901udp://@224.3.2.32:5000
 
 日本频道,#genre#
 NHKWorld,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
