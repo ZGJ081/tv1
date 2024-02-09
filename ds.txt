@@ -2783,9 +2783,9 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 熊熊乐园52,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23d304c091184090b3b6ceef8822a273/1200.m3u8
 
 HBO频道,#genre#
-HBO,http://208.115.225.174:14136
+Hollywood,https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+HBO,http://41.205.93.154/HBO/index.m3u8#http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2#http://185.188.188.235/live/hbo/playlist.m3u8#http://208.115.225.174:14136
 HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
 HBO signature,http://208.115.225.174:14160
 HBO,http://208.115.225.174:14165
 HBO XTEME,http://208.115.225.174:14165
@@ -2793,10 +2793,11 @@ HBO Pop,http://208.115.225.174:14156
 HBO Family,http://208.115.225.174:14144
 HBO+,http://190.60.36.103:8000/play/a00o/index.m3u8
 HBO 1,http://208.115.225.174:14165
-HBO 3,http://208.115.225.174:14160
+HBO 3,http://94.156.33.91/Cinemax/mono.m3u8#http://208.115.225.174:14160
 HBO 4,http://208.115.225.174:14136
 HBO 2,http://208.115.225.174:14140
 动物星球,http://208.115.225.174:14192
+HBOHD,https://s.vdo.ai/vhs/1.m3u8#http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138#http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2#http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 Together TV,http://5.66.192.142:9981/stream/channelid/1369926825?profile=matroska
 AXN,http://170.254.18.106/AXN/index.m3u8
 AMC,http://170.254.18.106/AMC/index.m3u8
@@ -2809,6 +2810,21 @@ HBO 2,http://170.254.18.106/HBO2/index.m3u8
 STAR,http://170.254.18.106/STAR/index.m3u8
 FX,http://170.254.18.106/FX/index.m3u8
 TNT,http://170.254.18.106/TNT/index.m3u8
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+HBO,http://208.115.225.174:14165
+HBO Pop,http://208.115.225.174:14156
+HBO Family,http://208.115.225.174:14144
+HBO+,http://190.60.36.103:8000/play/a00o/index.m3u8
+HBO 1,http://208.115.225.174:14165
+HBO 3,http://208.115.225.174:14160
+HBO 4,http://208.115.225.174:14136
+HBO 2,http://208.115.225.174:14140
+动物星球,http://208.115.225.174:14192
+Together TV,http://5.66.192.142:9981/stream/channelid/1369926825?profile=matroska
+AXN,http://170.254.18.106/AXN/index.m3u8
+AMC,http://170.254.18.106/AMC/index.m3u8
+Comedy Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
 
 
