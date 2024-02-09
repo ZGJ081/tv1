@@ -10880,7 +10880,7 @@ WhiteGirls,http://live.mycamtv.com/white.m3u8
 YoungGirls,http://live.mycamtv.com/young.m3u8
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
-春盈天下专线_6666,#genre#
+春盈天下专线_1111,#genre#
 ⑥春盈天下专线,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 ⑥香港21:30一七,https://ccc.kmijhnd.com/live/629.m3u8
 ⑥香港21:30四九,https://yyy.mmzj.net/lives/123678.flv
@@ -10892,7 +10892,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 @老澳21:32播放,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
 @老澳21:32官方,https://vdm6-hwnon.ntnftchain.com/live/2032-2.flv
 
-欧美午夜_7777,#genre#
+欧美午夜_1111,#genre#
 欧美频道1,http://cdn.adultiptv.net/bigass.m3u8 
 欧美频道2,http://cdn.adultiptv.net/blowjob.m3u8 
 欧美频道3,http://cdn.adultiptv.net/latina.m3u8 
