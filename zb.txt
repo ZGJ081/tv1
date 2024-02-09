@@ -772,7 +772,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 动画杂烩105,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/279aea90032d47dabe7985e99983d6ba/1200.m3u8
 动画杂烩051,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b37b06579bbe462999d516b4ffca854e/1200.m3u8
 动画杂烩016,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3c86fd9091a74094b69af0bacb40cd04/1200.m3u8
-🇨🇳央视2K 👉,#genre#
+
+🇨🇳央视2K ,#genre#
 CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
@@ -2190,20 +2191,8 @@ CGTNDOCUMENTARY,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 CCTV8台👉电信,http://125.71.122.40:8888/udp/239.93.42.39:5140
 路由器要支持ipv6,http://159.75.85.63:35455/douyu/508118
 
-📡永久免费👉公告,#genre#
-🎉春🎉永久免费,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504#https://pi.0472.org/tv/asam.php?auth=231110
-🎉盈🎉请勿购买,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
-🎉天🎉谨防受骗,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#http://180.174.54.152:8801/tsfile/live/0002_1.m3u8?key=txiptv
-🎉下🎉如果付款,https://cloud.yumixiu768.com/tmp/123.m3u8
-🎉公🎉说明上当,http://159.75.85.63:35455/douyu/4246519
-🎉告🎉申请退款,http://openhls-tct.douyucdn2.cn:80/dyliveflv3/2935323rzxdaZbek.m3u8?
-👉👉把家里路由器,http://43.138.170.29:35455/douyu/276200
-👉👉换成支持ipv6,http://43.138.170.29:35455/douyu/8770422
-👉👉支持所有线路,http://159.75.85.63:35455/douyu/747764
-👉👉直播高清流畅,http://159.75.85.63:35455/douyu/96577
-👉👉更换享受超清,http://159.75.85.63:35455/douyu/3928
 
-📡中国香港👉春盈,#genre#
+📡中国香港👉肖玉,#genre#
 
 凤凰中文移动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
