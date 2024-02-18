@@ -1505,18 +1505,15 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
 香港及云南酒店源,#genre#
-翡翠台(第1声道繁体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台(第2声道简体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台海外版(粤语繁体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(普通话简体),http://67.211.73.118:9901http://iptv.tvfix.org/hls/jadenhk2.m3u8
-J2,http://67.211.73.118:9901http://iptv.tvfix.org/hls/j2.m3u8
-J2(第2声道),http://67.211.73.118:9901http://iptv.tvfix.org/hls/j22.m3u8
-无线新闻台,http://67.211.73.118:9901http://iptv.tvfix.org/hls/inews.m3u8
-无线新闻台(第2声道),http://67.211.73.118:9901http://iptv.tvfix.org/hls/inews2.m3u8
-明珠台,http://67.211.73.118:9901http://iptv.tvfix.org/hls/pearl.m3u8
-明珠台(第2声道),http://67.211.73.118:9901http://iptv.tvfix.org/hls/pearl2.m3u8
-无线财经资讯台,http://67.211.73.118:9901http://iptv.tvfix.org/hls/finance.m3u8
-无线财经资讯台(第2声道),http://67.211.73.118:9901http://iptv.tvfix.org/hls/finance2.m3u8
+翡翠台高清,http://183.1.249.127:8081/hls/67/index.m3u8
+翡翠台,http://183.1.249.127:8081/hls/25/index.m3u8
+凤凰资讯,http://183.1.249.127:8081/hls/36/index.m3u8
+凤凰卫视高清,http://183.1.249.127:8081/hls/37/index.m3u8
+明珠台,http://183.1.249.127:8081/hls/26/index.m3u8
+DOX电影,http://183.1.249.127:8081/hls/62/index.m3u8
+MV音乐,http://183.1.249.127:8081/hls/88/index.m3u8
+魅力足球高清,http://183.1.249.127:8081/hls/65/index.m3u8
+本港台,http://183.1.249.127:8081/hls/135/index.m3u8
 无线财经资讯台海外版,http://67.211.73.118:9901http://iptv.tvfix.org/hls/financenhk.m3u8
 ViuTV,http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv.m3u8
 ViuTV(第2声道),http://67.211.73.118:9901http://iptv.tvfix.org/hls/viutv2.m3u8
