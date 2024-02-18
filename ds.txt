@@ -744,6 +744,19 @@ CGTN 俄语,http://121.26.216.13:16000/rtp/239.253.93.199:6377
 临时直播,http://121.26.216.13:16000/rtp/239.253.92.116:6029
 党教,http://121.26.216.13:16000/rtp/239.253.92.125:6024
 
+综艺频道,#genre#
+
+欢乐送,http://epg.112114.xyz/douyu/9273031
+欢乐集结号,http://epg.112114.xyz/douyu/9067836
+开心麻花街,http://epg.112114.xyz/douyu/9374862
+吐槽大会,http://epg.112114.xyz/douyu/9236042
+吐槽大会2,https://epg.112114.xyz/huya/11342422
+宋小宝,http://epg.112114.xyz/douyu/9817729
+相声小品,http://epg.112114.xyz/douyu/9286868
+开心麻花,http://akm-tct.douyucdn.cn/live/10153463r0oBSmAG.flv?uuid=
+贾玲小品,http://akm-tct.douyucdn.cn/live/10419541rxcqvj7p.flv?uuid=
+许君聪,http://akm-tct.douyucdn.cn/live/10419558r3UN1cKx.flv?uuid=
+MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
 体育频道,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
