@@ -816,7 +816,7 @@
       "filterable": 1,
       "ext": "https://atomgit.com/zgj081/tv/raw/master/吾爱戏曲.json"
     },
-    {
+	{
       "key": "学习",
       "name": "肖玉 学习园地",
       "type": 3,
@@ -826,6 +826,63 @@
       "filterable": 1,
       "ext": "https://atomgit.com/zgj081/tv/raw/master/xyyd.json"
     },
+    {"key":"csp_Bili","name":"哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://52bsj.vip:81/api/v3/file/get/64479/bilibili_2.json?sign=mT70lhyOd_pHJHA8zEjxouiG97eo0C26Ga-GP0HAB4M%3D%3A0","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/XYQ.jar"},
+              {
+              "key": "csp_XYQHiker_兔小贝",
+              "name":"肖玉课堂|兔小贝",
+              "type":3,
+              "api":"csp_XYQHiker",
+              "searchable":1,
+              "quickSearch":1,
+              "filterable":1,
+              "jar": "https://download.kstore.space/download/4077/hys.jar",
+              "ext":"https://download.kstore.space/download/4077/教育/兔小贝.json"
+              },
+                    
+           {"key":"csp_Bili幼儿","name":"肖玉课堂|幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://pan.shangui.cc/f/7eB3TM/baobao.json",
+           "jar": "https://pan.shangui.cc/f/J46AHK/jiaoyu.jar"
+    },
+ {
+      "key": "少儿教育",
+      "name": "肖玉课堂|少儿教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/4e1AC0/shaoer.json",
+      "jar": "https://pan.shangui.cc/f/J46AHK/jiaoyu.jar"
+    },
+    {
+      "key": "小学课堂",
+      "name": "肖玉课堂|小学课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/vdYahk/xiaoxue.json","jar": "https://pan.shangui.cc/f/J46AHK/jiaoyu.jar"
+    },
+    {
+      "key": "初中课堂",
+      "name": "肖玉课堂|初中课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/dn2eFo/chuzhong.json","jar": "https://pan.shangui.cc/f/J46AHK/jiaoyu.jar"
+    },
+{
+      "key": "高中教育",
+      "name": "肖玉课堂|高中课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://pan.shangui.cc/f/oM7oI7/gaohong.json","jar": "https://pan.shangui.cc/f/J46AHK/jiaoyu.jar"},
+	
     {
       "key": "儿童",
       "name": "肖玉┃儿童┃启蒙",
