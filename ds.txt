@@ -270,7 +270,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 CHC家庭影院,http://112.235.200.120:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://112.235.200.120:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://112.235.200.120:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-魅力足球,http://mgsp-ali.live.miguvideo.com:8088/migu/kailu/mlzuhd/51/20230411/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c8620&mdspid=&spid=600633&netType=4&sid=5910021597&pid=2028597139&timestamp=20240305103654&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=796070308&ParentNodeID=-99&assertID=5910021597&client_ip=123.118.97.54&SecurityKey=20240305103654&promotionId=&mvid=5900005807&mcid=500020&playurlVersion=WX-A1-7.2.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&encrypt=5e900811513b5ef55c9bb9260ba25d09
+魅力足球,http://mgsp-ali.live.miguvideo.com:8088/migu/kailu/mlzuhd/51/20230411/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c8620&mdspid=&spid=600633&netType=4&sid=5910021597&pid=2028597139&timestamp=20240305103654&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=796070308&ParentNodeID=-99&assertID=5910021597&client_ip=123.118.97.54&SecurityKey=20240305103654&promotionId=&mvid=5900005807&mcid=500020&playurlVersion=WX-A1-7.2.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&encrypt=5e900811513b5ef55c9bb9260ba25d09#http://114.234.74.62:3000/rtp/239.49.1.179:6000
 
 北京联通,#genre#
 CCTV-1 HD,http://114.245.177.65:10000/rtp/239.3.1.129:8008
