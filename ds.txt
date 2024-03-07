@@ -2374,7 +2374,63 @@ Al Jazeera ,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNA ,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NHK World ,http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 Red Bull TV ,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
+重温经典高清,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8 
+TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv 
+TVBS频道,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv 
+民视新闻,http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv 
+中视新闻,http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv 
+台视新闻,http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv 
+寰宇新闻,http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv 
+翡翠台1,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv 
+美亚,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8 
+东森新闻,http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv 
+TVB 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8 
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8 
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8 
+命理360,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 
+俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8 
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 
+长影,http://61.138.128.226:19901/tsfile/live/1010_1.m3u8 
+武侠剧场,http://tljdh.vip:9901/tsfile/live/1081_1.m3u8 
+潮州综合,http://211.97.63.3:801/hls/503/index.m3u8 
+新郑综合,http://218.29.135.6:4000/udp/225.1.4.243:1289 
+翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv 
+无线新闻,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv 
+TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8 
+J2,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv 
+明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv 
+TVB星河,http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv 
+CCTV-1综合,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv1.m3u8 
+CCTV-2财经,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv2.m3u8 
+CCTV-3综艺,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv3.m3u8 
+CCTV-4中文国际,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4.m3u8 
+CCTV-5体育,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv5.m3u8 
+CCTV-5+体育赛事,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv5p.m3u8 
+CCTV-6电影,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv6.m3u8 
+CCTV-7国防军事,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv7.m3u8 
+CCTV-8电视剧,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv8.m3u8 
+CCTV-9纪录,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv9.m3u8 
+CCTV-10科教,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv10.m3u8 
+CCTV-11戏曲,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv11.m3u8 
+CCTV-12社会与法,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv12.m3u8 
+CCTV-13新闻,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv13.m3u8 
+CCTV-14少儿,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv14.m3u8 
+CCTV-15音乐,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv15.m3u8 
+CCTV-16奥林匹克,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv16.m3u8 
+CCTV-17农业农村,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv17.m3u8 
+CCTV-4K超高清,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4k.m3u8 
+北京IPTV淘电影,http://home4.kmo.ink:8888/udp/239.3.1.250:8001 
+IPTV淘剧场,http://home4.kmo.ink:8888/udp/239.3.1.95:8001 
+IPTV淘BABY,http://home4.kmo.ink:8888/udp/239.3.1.238:8001 
+IPTV萌宠TV,http://home4.kmo.ink:8888/udp/239.3.1.102:8001 
+IPTV淘精彩,http://home4.kmo.ink:8888/udp/239.3.1.178:8001 
+IPTV淘娱乐,http://home4.kmo.ink:8888/udp/239.3.1.100:8001 
+IPTV@大健康,http://home4.kmo.ink:8888/udp/239.3.1.251:8001 
+睛彩竞技,http://home4.kmo.ink:8888/udp/239.3.1.125:8001 
+睛彩篮球,http://home4.kmo.ink:8888/udp/239.3.1.126:8001 
+睛彩羽毛球,http://home4.kmo.ink:8888/udp/239.3.1.127:8001 
+睛彩广场舞,http://home4.kmo.ink:8888/udp/239.3.1.128:8001
 
 
 测试外转内央视,#genre#
