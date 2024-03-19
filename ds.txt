@@ -242,7 +242,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
 石景山电视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
 房山区电视,https://live.funhillrm.com/2/sd/live.m3u8
-怀柔电视,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 北京卫视,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.241:8000/北京卫视.m3u8#http://61.240.39.46:8083/rtp/226.0.2.177:9328
 北京影视,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.158:8000/北京影视.m3u8
 北京新闻,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.159:8000/北京新闻.m3u8
@@ -1059,6 +1058,7 @@ IMPACT Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 大同教育,http://61.240.39.46:8083/rtp/226.0.2.232:9772
 阳泉-1新闻综合,http://61.240.39.46:8083/rtp/226.0.2.233:9776
 阳泉-2科教,http://61.240.39.46:8083/rtp/226.0.2.234:9784
+山西|怀仁电视,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 山西|山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西|黄河电视台,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 山西|山西经济科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
