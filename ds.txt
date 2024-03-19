@@ -268,10 +268,10 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 台球,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.85:4120/台球.m3u8
 金鹰卡通,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.51:9252/金鹰卡通.m3u8
 音乐现场,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.70:4120/音乐现场.m3u8
-CHC高清电影,http://61.240.39.46:8083/rtp/226.0.2.93:8004#http://221.232.105.110:8880/rtp/239.69.1.241:11088#http://221.232.105.110:8880/rtp/239.69.1.241:11088
-CHC动作电影,http://61.240.39.46:8083/rtp/226.0.2.94:8012#http://111.201.160.208:10000/rtp/239.3.1.92:4120#http://221.232.105.110:8880/rtp/239.69.1.242:11094
-CHC家庭影院,http://61.240.39.46:8083/rtp/226.0.2.240:9820#http://221.232.105.110:8880/rtp/239.69.1.243:11100#http://221.232.105.110:8880/rtp/239.69.1.243:11100
-魅力足球,http://111.201.160.208:10000/rtp/239.3.1.89:4120#http://113.64.145.200:8081/hls/65/index.m3u8#http://218.93.171.188:8888/rtp/239.49.1.179:6000/魅丽足球.m3u8
+CHC高清电影,http://58.19.182.187:9901/tsfile/live/1011_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+CHC动作电影,http://58.19.182.187:9901/tsfile/live/1009_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+CHC家庭影院,,http://58.19.182.187:9901/tsfile/live/1010_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+魅力足球,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=mlzq#http://218.93.171.188:8888/rtp/239.49.1.179:6000/魅丽足球.m3u8
 
 北京联通,#genre#
 CCTV-1 HD,http://114.245.177.65:10000/rtp/239.3.1.129:8008#http://111.201.160.208:10000/rtp/239.3.1.129:8008
@@ -960,7 +960,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://jltpc.x3322.net:9901/tsfile/live/1035_1.m3u8?key=txiptv
 央视台球,http://angtv.cc/jd/gdlz.php?id=ystq
 风云足球,http://jltpc.x3322.net:9901/tsfile/live/1033_1.m3u8?key=txiptv
-魅力足球,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
+魅力足球,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8#http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=mlzq
 深圳体育,http://113.117.74.28:8081/hls/70/index.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?
 咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
@@ -986,6 +986,39 @@ ESPN,http://181.204.21.164:8000/play/a09h/index.m3u8
 ESPN 2,http://181.204.21.164:8000/play/a09i/index.m3u8
 IMPACT Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 12 TV Parma,https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+咪咕直播-1,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+咪咕直播-2,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+咪咕直播-3,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+咪咕直播-4,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+咪咕直播-5,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+咪咕直播-6,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+咪咕直播-7,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+咪咕直播-8,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+咪咕直播-9,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+咪咕直播-10,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+咪咕直播-11,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+咪咕直播-12,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+咪咕直播-13,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+咪咕直播-14,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+咪咕直播-15,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+咪咕直播-16,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+咪咕直播-17,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+咪咕直播-18,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
+咪咕直播-19,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+咪咕直播-20,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+咪咕直播-21,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+咪咕直播-22,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+咪咕直播-23,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+咪咕直播-24,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+咪咕直播-25,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+咪咕直播-26,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+咪咕直播-27,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+咪咕直播-28,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+咪咕直播-29,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+咪咕直播-30,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+咪咕直播-31,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
+咪咕直播-32,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+咪咕直播-33,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
 
 山西频道,#genre#
 山西影视标清,https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/i5iMb50.m3u8#http://61.240.39.46:8083/rtp/226.0.2.237:9808#http://110.178.52.190:8085/udp/239.1.1.4:8004
@@ -3608,6 +3641,7 @@ HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
 
 
 港·澳·台,#genre#
+凤凰电影,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 中天新闻台,https://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 有线新闻台,https://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv#http://hksc.vnetidc.hk:61283/bysid/78
 TVB新闻台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv#http://hksc.vnetidc.hk:61282/bysid/83
@@ -3628,7 +3662,7 @@ RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/st
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8#http://hksc.vnetidc.hk:61284/bysid/34
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 凤凰资讯台,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰卫视台,http://112.19.171.156:9999/udp/239.93.0.162:2192
+凤凰卫视台,http://112.19.171.156:9999/udp/239.93.0.162:2192#http://120.84.121.11:808/hls/28/index.m3u8?key=tvbox6_com&playlive=1&authid=0
 澳门莲花台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 澳视综艺台,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
