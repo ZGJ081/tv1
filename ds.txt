@@ -347,7 +347,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 密云电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.154:8001
 房山电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.96:8001
 延庆电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.187:8001
-足球,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.89:4120/足球.m3u8
 家庭剧影院,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.93:4120
 动作电影,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.92:4120
 喜剧影院,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.91:4120
