@@ -316,7 +316,7 @@ CNC,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 美国摔角,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 北京,#genre#
-北京卫视,https://live-pc.xuexi.cn/merged/bjtv_merge_qhd.m3u8?auth_key=1709659606-0-17096056058203006-d7037ef7fb25027c67edf09fa67d4b24&yid=17096056058203006
+北京卫视,https://live-pc.xuexi.cn/merged/bjtv_merge_qhd.m3u8?auth_key=1709659606-0-17096056058203006-d7037ef7fb25027c67edf09fa67d4b24&yid=17096056058203006#http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.241:8000
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid#http://live.funhillrm.com/5/sd/live.m3u8
 北京影视标清,http://58.216.17.180/downflv.brtvcloud.com/hyyhuyu/drtctv.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid#http://live.sjsrm.com/bjsjs/sd/live.m3u8
@@ -342,11 +342,17 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 淘剧场,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.95:8001/淘剧场.m3u8
 淘娱乐,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.100:8001/淘娱乐.m3u8
 淘宝贝,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.238:8001/淘宝贝.m3u8
-朝阳融媒,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.163:8001/朝阳融媒.m3u8
-通州融媒,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.221:8001/通州融媒.m3u8
-密云电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.154:8001/密云电视.m3u8
-房山电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.96:8001/房山电视.m3u8
-延庆电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.187:8001/延庆电视.m3u8
+朝阳融媒,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.163:8001
+通州融媒,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.221:8001
+密云电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.154:8001
+房山电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.96:8001
+延庆电视台,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.187:8001
+足球,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.89:4120/足球.m3u8
+家庭剧影院,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.93:4120
+动作电影,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.92:4120
+喜剧影院,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.91:4120
+经典电影,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.195:9024
+光影,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.84:4120
 足球,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.89:4120/足球.m3u8
 戏曲,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.78:4120/戏曲.m3u8
 台球,http://adsl03.ccj.gohome.link:55556/rtp/239.3.1.85:4120/台球.m3u8
