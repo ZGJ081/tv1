@@ -109,6 +109,84 @@
       "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ240222.jar;md5;6ac1db4fc619e0976d7e7c2517581b61"
     },
     {
+      "key": "相声",
+      "name": "肖玉XBPQ┃相声",
+      "type": 3,
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "quickSearch": 0,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.xsmp3.com",
+        "数组二次截取": " &&&&",
+        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&",
+        "播放数组": "\\[&&\\]",
+        "播放列表": "{&&}",
+        "播放链接": "url*\"&&\"",
+        "播放标题": "name*\"&&\"",
+        "播放副标题": "artist*\"&&\"",
+        "线路数组": "相声随身听",
+        "线路标题": "相声随身听",
+        "导演": "插兜",
+        "主演": "相声明星",
+        "简介": "相声合集",
+        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
+      }
+    },
+    {
+      "key": "白嫖",
+      "name": "肖玉XBPQ┃白嫖",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "http://www.baipiaoys.cc/",
+        "副标题": "pic-text text-right\">&&</b>",
+        "搜索模式": "1",
+        "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
+        "图片": "data-original=\"&&\"",
+        "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+        "分类url": "http://www.baipiaoys.cc/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+      }
+    },
+    {
+      "key": "freeok",
+      "name": "肖玉1080P┃FROK",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "2",
+      "ext": {
+        "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+        "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
+        "分类值": "1&2&3&4&12&5",
+        "副标题": "<div class=\"module-item-note\">&&</div>",
+        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+        "线路标题": "<span>&&</small>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "简介": "<p>&&</p>"
+      }
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
       "key": "csp_Auete",
       "name": "肖玉-🦝┃Aue┃影视",
       "type": 3,
