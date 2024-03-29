@@ -6,7 +6,7 @@
 酒梦,https://vd4.bdstatic.com/mda-jjbj71ymtth36pvu/sc/mda-jjbj71ymtth36pvu.mp4
 500首华语经典广播,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 韩国DJ Soda Remix 2021电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-韩宝仪经典歌曲十首HD,https://vdse.bdstatic.com//87eec5e3259af99025ce76d06357dab8.mp4
+韩宝仪经典歌曲十首HD,https://vdse.bdstatic.com/87eec5e3259af99025ce76d06357dab8.mp4
 
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8#https://gyssi.link/iptv/chinaiptv/%E5%8C%97%E4%BA%AC.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjExMDk3NjUxNjAsImlhdCI6MTcwNDM0NDk3NCwiZXhwIjoxNzA2OTM2OTc0fQ.XLfoMVfxwOOdshxDuwtIA4z1UI23cMaIsREFv6CZ-X4#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
